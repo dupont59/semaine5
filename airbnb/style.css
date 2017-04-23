@@ -1,118 +1,205 @@
-.index{
-  width: 400px;
-  color: red;
-}
 h1{
-width: 636px;
-margin-left: 14%;
-font-size: 48px !important;
-line-height: 56px !important;
-letter-spacing: -0.8px !important;
-padding-top: 8px !important;
-padding-bottom: 8px !important;
+width: 630px;
+position: relative;
+left: 252px;
 color: #484848 !important;
+font-size: 48px !important;
 font-weight: 300 !important;
+line-height: 56px !important;
+margin-bottom: 60px;
 }
-.logo{
-  top: 0px
 
+label{
+  
 }
+
+.index{
+  color: red;
+  font-size: 50px;
+}
+
+.boitehautdroite{
+    position: relative;
+    left: 70%;
+    top: -350px;
+}
+
 input{
-  font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size: 31px;
-line-height: 1.43;
-color: #484848;
-padding-top: 20px;
+  padding-top: 30px;
+padding-left: 155px;
+}
+
+
+ul{
+width: 580px;
+display: inline-flex;
+position: relative;
+}
+
+li{
+position: relative;
+display: inline-block;
+}
+
+a{
+ margin-left: 15px;
+font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-size: 14px; 
 }
 .deux{
 position: relative;
-margin-left: 154px;
+margin-left: 146px;
+}
 
-}
 .trois{
-  position: absolute;
-}
-label{
-  margin-left: 10px;
-}
-ul{
-  width: 372px;
-margin-left: 72%;
 position: absolute;
-top: 0;
+margin-left: 25px;
 }
-h3{
-  width: 300px;
-  margin-left: 15%;
-  font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size: 14px;
-line-height: 1.43;
-color: #484848;
-}
-li{
-  display: inline-block;
-}
-a{
-  padding-right: 10px;
-}
-span{
+
+.hautdroite{
 position: relative;
-padding-right: 112px;
+margin-left: -213px;
+padding-top: 20px;
+padding-left: 77px;
+background: #FF5A5F !important;
+font-size: 26px !important;
+line-height: 32px !important;
+color: #ffffff;
+float: right !important;
+text-align: center !important;
+font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
 }
 .un{
-font-size: 11px;
-line-height: 3.43;
-color: #484848;
-margin: 0 34px 0 0 !important;
+
 }
-.reservees{
-  margin-left: 15%;
+
+h3{
+width: 125px;
+position: relative;
+margin-left: 10px;
+font-size: 28px !important;
 }
-.experiences{
-  margin-left: 17%;
-}
-.logements{
-  margin-left: 17%;
-}
-.destinations{
-  margin-left: 17%;
-}
-.span{
-  margin-left: 17%;
-}
+
 .recherche{
-  margin-left: 156px;
+  margin-left: 145px;
+position: relative;
+top: 30px;
+color: #008489 !important;
+letter-spacing: 0.4px !important;
+font-size: 12px !important;
+line-height: 25px !important;
+padding-top: 12px !important;
+padding-bottom: 12px !important;
+font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
 }
-.hautdroite{
 
+img{
+  position: relative;
+margin-left: 5px;
 }
-.airbnb20{
-margin-left: 464px;
-margin-top: 120px;
-display: inline-flex;
-}
-.estimation{
 
-}
-.paragra1{
-ont-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size: 24px;
-line-height: 1.43;
-color: #484848;
-width: 256px;
-}
-.paragra2{
-  font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size: 16px;
-line-height: 1.43;
-color: #484848;
-}
 .fin{
 
 }
+
+.reservees{
+  position: relative;
+margin-left: 141px;
+}
+
+
+.res{
+  width: 1255px;
+margin-left: 41px;
+margin-top: 73px;
+}
+
+.res1{
+  margin-left: 150px;
+}
+
 footer{
   width: 300px;
 }
+.ex{
+    position: relative;
+    margin-left: 181px;
+    width: 1116px;
+}
+.lo{
+position: relative;
+margin-left: 185px;
+}
+.dest{
+  margin-left: 184px;
+ 
+}
+
+.fin{
+position: relative;
+margin-left: 251px;
+width: 660px;
+top: 280px;
+}
+.estimation{
+    background: #008489 !important;
+    width: auto !important;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    padding-right: 16px !important;
+    padding-left: 16px !important;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    border: 2px solid transparent;
+    position: relative !important;
+    font-weight: 700 !important;
+    margin-left: 10px;
+}
+
+
+.paragra1{
+width: 400px;
+color: #484848 !important;
+font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+margin: 13px !important;
+font-size: 28px !important;
+}
+
+.paragra2{
+ color: #484848 !important;
+font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+margin: 12px !important;
+font-size: 18px !important;
+padding-top: 21px !important;
+padding-bottom: 20px !important;
+width: 401px;
+}
+}
+
+.destinations{
+
+}
+
+.fin1{
+  width: 538px;
+position: relative;
+left: 690px;
+}
+
+span{
+position: relative;
+text-align: right;
+margin-left: 91px;
+}
+
+
+.spane{
+width: 1099px;
+margin-left: 144px;
+display: block;
+}
+
+
 
 @media (min-width: 750px){
   div {
@@ -124,6 +211,7 @@ footer{
   }
 }
 
+
 @media (min-width: 900px){
   
   
@@ -131,4 +219,3 @@ footer{
   div:nth-child(2){
     display: inline-block;
   }
-}
