@@ -1,221 +1,246 @@
 h1{
-width: 630px;
+font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+font-size: 48px;
+line-height: 56px;
+letter-spacing: -0.8px;
+padding-top: 8px;
+padding-bottom: 8px;
+color: #484848 ;
+font-weight: 300;
+width: 648px;
 position: relative;
-left: 252px;
-color: #484848 !important;
-font-size: 48px !important;
-font-weight: 300 !important;
-line-height: 56px !important;
-margin-bottom: 60px;
+left: 207px;
 }
 
-label{
-  
+span{
+  font-weight: 700 !important;
+color: #FF5A5F !important;
 }
 
-.index{
-  color: red;
-  font-size: 50px;
+li{
+  display: inline-block;
 }
 
 .boitehautdroite{
     position: relative;
-    left: 70%;
-    top: -350px;
-}
+    left: 74%;
+    bottom: 290px;
 
-input{
-  padding-top: 30px;
-padding-left: 155px;
 }
 
 
-ul{
-width: 580px;
-display: inline-flex;
+.deux{
+width: 1078px;
 position: relative;
+left: 205px;
 }
 
-li{
+.labelou{
+width: 295px;
 position: relative;
+padding-bottom: 46px;
+margin-left: 9px;
+right: 10px;
+top: 12px;
+}
+
+
+.inputpartout{
+width: 246px;
+position: relative;
+margin-left: 19px;
+bottom: 17px;
+}
+
+.labelquand{
+width: 10px;
+position: relative;
+padding-bottom: 45px;
+padding-right: 313px;
+left: 295px;
+bottom: 81px;
+}
+
+
+.buttonindiffe{
+position: relative;
+left: 295px;
+bottom: 110px;
+width: 155px;
+}
+
+.labelvoyageurs{
+position: relative;
+padding-right: 260px;
+padding-bottom: 45px;
+left: 619px;
+bottom: 174px;
+width: 47px;
+}
+.buttonvoyageur{
+position: relative;
+bottom: 203px;
+left: 619px;
+width: 30px;
+}
+
+.buttonrecherche{
+position: relative;
+bottom: 251px;
+left: 823px;
+width: 30px;
+}
+
+
+
+.recherche{
+  position: relative;
+margin-left: 204px;
+margin-top: 15px;
 display: inline-block;
+width: 1080px;
 }
 
 a{
- margin-left: 15px;
-font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-font-size: 14px; 
-}
-.deux{
-position: relative;
-margin-left: 146px;
-}
-
-.trois{
-position: absolute;
-margin-left: 25px;
-}
-
-.hautdroite{
-position: relative;
-margin-left: -213px;
-padding-top: 20px;
-padding-left: 77px;
-background: #FF5A5F !important;
-font-size: 26px !important;
-line-height: 32px !important;
-color: #ffffff;
-float: right !important;
-text-align: center !important;
-font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
-}
-.un{
-
+  margin-left: 15px;
+font-size: 12px;
+color: #008489;
+font-weight: 700;
+line-height: 16px;
+font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif;
 }
 
 h3{
-width: 125px;
-position: relative;
-margin-left: 10px;
-font-size: 28px !important;
-}
-
-.recherche{
-  margin-left: 145px;
-position: relative;
-top: 30px;
-color: #008489 !important;
-letter-spacing: 0.4px !important;
-font-size: 12px !important;
-line-height: 25px !important;
-padding-top: 12px !important;
-padding-bottom: 12px !important;
-font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
-}
-
-img{
-  position: relative;
-margin-left: 5px;
-}
-
-.fin{
-
-}
-
-.reservees{
-  position: relative;
-margin-left: 141px;
-}
-
-
-.res{
-  width: 1255px;
-margin-left: 41px;
-margin-top: 73px;
-}
-
-.res1{
-  margin-left: 150px;
-}
-
-footer{
-  width: 300px;
-}
-.ex{
+      width: 1080px;
     position: relative;
-    margin-left: 181px;
-    width: 1116px;
+    left: 203px;
 }
-.lo{
+.reservees{
+ position: relative;
+left: 203px; 
+}
+
+.experiences{
+  position: relative;
+left: 202px;
+}
+
+.logements{
+  position: relative;
+left: 202px;
+}
+
+.destination{
 position: relative;
-margin-left: 185px;
+left: 188px;
+width: 160px;
 }
-.dest{
-  margin-left: 184px;
- 
+
+.paris{
+position: relative;
+bottom: 307px;
+left: 184px;
+}
+
+.tokyo{
+position: relative;
+bottom: 631px;
+left: 362px;
+}
+
+
+
+.florence{
+position: relative;
+bottom: 952px;
+left: 539px;
+}
+
+.londres{
+position: relative;
+bottom: 66%;
+left: 910px;
+width: 165px;
+}
+
+.sanfrancisco{
+position: relative;
+bottom: 83%;
+left: 715px;
 }
 
 .fin{
 position: relative;
-margin-left: 251px;
-width: 660px;
-top: 280px;
-}
-.estimation{
-    background: #008489 !important;
-    width: auto !important;
-    padding-top: 8px !important;
-    padding-bottom: 8px !important;
-    padding-right: 16px !important;
-    padding-left: 16px !important;
-    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 14px;
-    border: 2px solid transparent;
-    position: relative !important;
-    font-weight: 700 !important;
-    margin-left: 10px;
-}
-
-
-.paragra1{
-width: 400px;
-color: #484848 !important;
-font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
-margin: 13px !important;
-font-size: 28px !important;
-}
-
-.paragra2{
- color: #484848 !important;
-font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
-margin: 12px !important;
-font-size: 18px !important;
-padding-top: 21px !important;
-padding-bottom: 20px !important;
-width: 401px;
-}
-}
-
-.destinations{
-
+bottom: 257%;
+left: 253px;
+width: 345px; 
 }
 
 .fin1{
-  width: 538px;
 position: relative;
-left: 690px;
+bottom: 313%;
+left: 731px;
+width: 539px;
+padding-top: 74px;
 }
 
-span{
+.estimation{
+background: #008489;
+border: 2px solid transparent;
+font-weight: 700;
+padding-bottom: 10px;
+padding-top: 10px;
+border-radius: 5px;
+}
+
+.paragra1{
+font-weight: 700;
+color: #484848;
+font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+margin: 0px;
+word-wrap: break-word;
+font-size: 28px;
+line-height: 36px;
+letter-spacing: -0.6px;
+padding-top: 2px;
+padding-bottom: 2px;
 position: relative;
-text-align: right;
-margin-left: 91px;
+width: 543px;
+right: 61px;
 }
 
 
-.spane{
-width: 1099px;
-margin-left: 144px;
-display: block;
+.paragra2{
+    font-weight: 300;
+    color: #484848;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+    word-wrap: break-word;
+    font-size: 19px;
+    line-height: 24px;
+    width: 246px;
+    position: relative;
 }
 
 
 
 @media (min-width: 750px){
-  div {
-    display: inline-block;
+ 
+
+
+
 }
 
-  div:nth-child(2){
+  :nth-child(2){
     display: none;
-  }
+  
 }
 
 
 @media (min-width: 900px){
-  
+ 
+
   
 
-  div:nth-child(2){
+  :nth-child(2){
     display: inline-block;
   }
